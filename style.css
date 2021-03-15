@@ -1,11 +1,17 @@
+.body {
+   box-sizing: border-box;
+}
+
 #testata-pagina {
     background-image: url(./img/pattern.png);
     background-color: lightskyblue;
+
 }
 
 #logo-booleaners {
     width: 150px;
     height: 150px;
+    margin-top: ;
 
 }
 
@@ -22,7 +28,7 @@ h1{
     font-size: 12px;
 }
 
-.writers-info {
+#writers-info {
     color: rgba(0, 0, 0, 0.5);
     
 }
@@ -42,3 +48,20 @@ thead {
     background-color: lightblue;
 }
 
+#you-must-check {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    margin: 4px;
+}
+.container {
+    position: relative;
+  }
+  
+.topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 20px;
+    color: white;
+  }
+  
