@@ -1,0 +1,10 @@
+#testata-pagina {
+    background-image: url(./img/pattern.png);
+    background-color: lightskyblue;
+}
+
+#logo-booleaners {
+    width: 150px;
+    height: 150px;
+
+}
