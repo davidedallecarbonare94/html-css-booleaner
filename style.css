@@ -1,11 +1,11 @@
-.body {
-   box-sizing: border-box;
+*{
+    box-sizing: border-box;
+    text-align: left;
 }
-
 #testata-pagina {
     background-image: url(./img/pattern.png);
     background-color: lightskyblue;
-
+    padding: 0px;
 }
 
 #logo-booleaners {
@@ -37,13 +37,28 @@ h1{
     font-size: 12px;
 
 }
-
+.table {
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    border-spacing: 0px;
+}
 thead {
     background-color: blue;
     color: white;
     text-align: left;
 }
-
+td {
+    text-align: left;
+    color: black;
+    padding: 8px;
+}
+tr {
+    padding: 8px;
+}
+th {
+    padding: 8px;
+}
 .prima-riga {
     background-color: lightblue;
 }
