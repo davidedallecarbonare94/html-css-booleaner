@@ -8,3 +8,21 @@
     height: 150px;
 
 }
+
+h1{
+    font-size: 65px;
+    margin: 4px;
+}
+
+#thebooleaner {
+    color: lightskyblue;
+}
+
+#writers-info {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#data {
+    font-size: 12px;
+
+}
