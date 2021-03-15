@@ -18,14 +18,27 @@ h1{
     color: lightskyblue;
 }
 
-#writers-info {
+#img-description {
+    font-size: 12px;
+}
+
+.writers-info {
     color: rgba(0, 0, 0, 0.5);
+    
 }
 
 #data {
     font-size: 12px;
 
 }
-table {
-    border-color: black;
+
+thead {
+    background-color: blue;
+    color: white;
+    text-align: left;
 }
+
+.prima-riga {
+    background-color: lightblue;
+}
+
